@@ -1,20 +1,5 @@
-x = 100
+x = 500
 
-
-if x > 100 :
-    print ('x > 100')
-
-
-
-
-elif x > 200 :
-     print('x > 200')
-
-
-
-
-
-else :
-    print('Wrong')
-    
+if  x = > 600 :
+    print('Welcome')
 
